@@ -1,5 +1,5 @@
 <?php 
-
+  // i think it's actually insanely impressive that you did form submission with php as much as i want to giggle at the thought of there being 70% php, GREAT JOB DAVE!
 	require_once('config.php');
 	require_once('phpMailer/phpmailer.php');
 
