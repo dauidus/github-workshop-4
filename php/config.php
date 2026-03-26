@@ -1,7 +1,7 @@
 <?
 	//define the receiver of the email
 	
-	define('TO_NAME','Anthony Giacalone');
+	define('TO_NAME','Tony DA G');
 	define('TO_EMAIL','anthony.giacalone@csulb.edu');
 	define('SUBJECT','message from your resume website');	
 	
